@@ -3,7 +3,7 @@
     padding: 10px 20px;
 }
 
-.courses-page-header {
+.courses-page-header{
     padding: 15px 0px;
     border-bottom: #CDCDCD 1.5px solid;
     display: flex;
@@ -11,21 +11,21 @@
 .course-header-text {
     width: 30%;
 }
-.course-create {
+.course-create{
     width: 20%;
     text-align: right;
 }
-.create-course-button {
+.create-course-button{
     padding: 9px 15px;
     border: none;
     background-color: #76008e;
     color: white;
 }
-.course-header-search {
+.course-header-search{
     width: 50%; 
     text-align: center;
 }
-.course-header-search input {
+.course-header-search input{
     width: 220px;
     height: 35px;
     border: #CDCDCD 1.5px solid;
@@ -43,4 +43,9 @@
     padding-bottom: 20px;
     display: flex;
     flex-wrap: wrap;
+}
+
+.course-description-text {
+    width: 360px;
+    padding: 10px 0;
 }
